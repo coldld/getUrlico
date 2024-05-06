@@ -1,8 +1,3 @@
-sdsds-http://www.baidu.com
-sdsds-http://www.baidu.com
-sdsds-http://www.baidu.com
-sdsds-http://www.baidu.com
-sdsds-http://www.baidu.com
-sdsds-http://www.baidu.com
-sdsds-http://www.baidu.com
-sdsds-http://www.baidu.com
+百度-http://www.baidu.com
+xxxx-http://www.baidu.com
+mysql-https://www.mysql.com
