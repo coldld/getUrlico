@@ -1,8 +1,11 @@
 # getUrlico
 获取网址的favicon
+
 读urls.txt文本里的url
+
 输出文件website_info.md
-内容
+
+website_info.md内容:
 No.1
 标题: MySQL
 ![MySQL](https://labs.mysql.com/common/themes/sakila/favicon.ico)
